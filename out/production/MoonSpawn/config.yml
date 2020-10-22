@@ -1,0 +1,29 @@
+##########################
+#       MoonSpawn        #
+#      By: MrDrawn       #
+#########################
+
+# Mensagens do spawn
+
+mensagens:
+  permission:
+    - ' '
+    - ' &c&lOPS! &cVocê não tem permissão para executar comando.'
+    - ' '
+  spawn:
+    - ' '
+    - ' &a&lYAY! &aVocê foi teleportado ao spawn.'
+    - ' '
+  setspawn:
+    - ' '
+    - ' &a&lYAY! &aVocê definiu o spawn.'
+    - ' '
+
+# Localização do spawn
+spawn:
+  world: world
+  x: 15.0
+  y: 100.0
+  z: 15.0
+  yaw: 0.0
+  pitch: 0.0
