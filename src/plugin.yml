@@ -4,5 +4,6 @@ version: 1.0
 author: MrDrawn
 
 commands:
+  moonspawn:
   setspawn:
   spawn:
