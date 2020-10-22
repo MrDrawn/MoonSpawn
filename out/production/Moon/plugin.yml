@@ -1,0 +1,8 @@
+name: MoonSpawn
+main: com.moon.Moon
+version: 1.0
+author: MrDrawn
+
+commands:
+  setspawn:
+  spawn:
